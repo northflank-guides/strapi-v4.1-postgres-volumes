@@ -1,3 +1,7 @@
+# Strapi v4.1 with Postgres and Volumes on Northflank
+
+Fork this repository to create your Strapi v4.1 deployment. Configuration data will be stored in a PostgreSQL database and media uploads will use Northflank persistent volumes. Follow [our guide](https://northflank.com/guides/deploying-strapi-with-postgresql-and-volumes) to deploy on Northflank.
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
